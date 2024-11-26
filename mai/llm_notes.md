@@ -57,6 +57,9 @@ Sure! Here are the main points from the page:
 ## <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/understanding-tokens" data-linktype="relative-path">Understand tokens</a>
 
 TODO: add
+also refer to: Explained: Tokens and Embeddings in LLMs
+https://medium.com/the-research-nest/explained-tokens-and-embeddings-in-llms-69a16ba5db33
+
 
 ## <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/embeddings" data-linktype="relative-path">Preserve semantic meaning with embeddings</a>
 
@@ -69,4 +72,207 @@ TODO: add
 ## <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/prompt-engineering-dotnet" data-linktype="relative-path">Prompt engineering</a>
 
 TODO: add
+
+## LLM model perforance compare
+
+refer to: [LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens](https://github.com/microsoft/LongRoPE)
+
+## >>> Microsoft AI Playbook
+
+https://learn.microsoft.com/en-us/ai/playbook/
+
+<section id="landing-head">
+	<div class="padding-top-xxs padding-bottom-xs">
+		<div class="columns">
+			<div class="column is-full">
+				<h1 class="font-size-h2">AI playbook</h1>
+					<p class="margin-top-xxs has-line-height-reset">The Artificial Intelligence (AI) Playbook provides enterprise software engineers with solutions, capabilities, and code developed to solve real-world AI problems.</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="landing-content" class="padding-block-xs">
+	<div class="columns is-masonry is-three-masonry-columns">
+			<div class="column is-12 is-4-desktop">
+				<div class="box box-shadow-medium margin-none margin-xxs-desktop">
+					<h2 class="margin-none font-size-h6">Working with Large Language Models (LLMs)</h2>
+						<h3 class="display-flex is-uppercase font-size-sm border-top margin-bottom-xxs margin-top-xs padding-top-xs has-text-subtle">
+							<span class="margin-right-xxs align-self-center font-size-h5 docon docon-topic-overview" aria-hidden="true"></span>
+							Overview
+						</h3>
+						<ul class="margin-none has-line-height-reset">
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="technology-guidance/generative-ai/working-with-llms/" data-linktype="relative-path">Overview of Large Language Models (LLMs)</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="technology-guidance/generative-ai/working-with-llms/experiment-recommend" data-linktype="relative-path">Experimenting with LLMs</a>
+							</li>
+						</ul>
+						<h3 class="display-flex is-uppercase font-size-sm border-top margin-bottom-xxs margin-top-xs padding-top-xs has-text-subtle">
+							<span class="margin-right-xxs align-self-center font-size-h5 docon docon-topic-concept" aria-hidden="true"></span>
+							Concept
+						</h3>
+						<ul class="margin-none has-line-height-reset">
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="technology-guidance/generative-ai/getting-started/use-case-recommend" data-linktype="relative-path">Understanding large language models (LLMs)</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="technology-guidance/generative-ai/working-with-llms/evaluation/list-of-eval-metrics" data-linktype="relative-path">Defining and understanding LLM evaluation metrics</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="technology-guidance/generative-ai/working-with-llms/evaluation/g-eval-metric-for-summarization" data-linktype="relative-path">Evaluating the performance of LLM summarization prompts</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="technology-guidance/generative-ai/mlops-in-openai/security/security-recommend" data-linktype="relative-path">Security guidance for Large Language Models</a>
+							</li>
+						</ul>
+						<h3 class="display-flex is-uppercase font-size-sm border-top margin-bottom-xxs margin-top-xs padding-top-xs has-text-subtle">
+							<span class="margin-right-xxs align-self-center font-size-h5 docon docon-topic-get-started" aria-hidden="true"></span>
+							Get started
+						</h3>
+						<ul class="margin-none has-line-height-reset">
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="technology-guidance/generative-ai/working-with-llms/prompt-engineering" data-linktype="relative-path">Getting started with LLM prompt engineering</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="technology-guidance/generative-ai/working-with-llms/fine-tuning" data-linktype="relative-path">Getting started with LLM fine-tuning</a>
+							</li>
+						</ul>
+						<h3 class="display-flex is-uppercase font-size-sm border-top margin-bottom-xxs margin-top-xs padding-top-xs has-text-subtle">
+							<span class="margin-right-xxs align-self-center font-size-h5 docon docon-topic-architecture" aria-hidden="true"></span>
+							Architecture
+						</h3>
+						<ul class="margin-none has-line-height-reset">
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="solutions/generative-ai/rag-experiment-accelerator" data-linktype="relative-path">RAG experiment accelerator</a>
+							</li>
+						</ul>
+				</div>
+			</div>
+			<div class="column is-12 is-4-desktop">
+				<div class="box box-shadow-medium margin-none margin-xxs-desktop">
+					<h2 class="margin-none font-size-h6">Generative AI solutions</h2>
+						<h3 class="display-flex is-uppercase font-size-sm border-top margin-bottom-xxs margin-top-xs padding-top-xs has-text-subtle">
+							<span class="margin-right-xxs align-self-center font-size-h5 docon docon-topic-concept" aria-hidden="true"></span>
+							Concept
+						</h3>
+						<ul class="margin-none has-line-height-reset">
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="technology-guidance/generative-ai/" data-linktype="relative-path">Creating production-ready GenAI applications</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="technology-guidance/generative-ai/dev-starters/genai-gateway/" data-linktype="relative-path">Designing and implementing Azure OpenAI Gateway</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="technology-guidance/generative-ai/dev-starters/genai-gateway/cost-optimization" data-linktype="relative-path">Azure OpenAI cost optimization</a>
+							</li>
+						</ul>
+						<h3 class="display-flex is-uppercase font-size-sm border-top margin-bottom-xxs margin-top-xs padding-top-xs has-text-subtle">
+							<span class="margin-right-xxs align-self-center font-size-h5 docon docon-topic-architecture" aria-hidden="true"></span>
+							Architecture
+						</h3>
+						<ul class="margin-none has-line-height-reset">
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="solutions/generative-ai/genai-gateway/" data-linktype="relative-path">GenAI Gateway reference architecture</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="technology-guidance/generative-ai/dev-starters/genai-gateway/reference-architectures/apim-based" data-linktype="relative-path">GenAI Gateway reference architecture using APIM</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="solutions/generative-ai/genai-gateway/maximise-ptu-utilization" data-linktype="relative-path">Approaches for maximizing PTU utilization</a>
+							</li>
+						</ul>
+				</div>
+			</div>
+			<div class="column is-12 is-4-desktop">
+				<div class="box box-shadow-medium margin-none margin-xxs-desktop">
+					<h2 class="margin-none font-size-h6">AI engineering</h2>
+						<h3 class="display-flex is-uppercase font-size-sm border-top margin-bottom-xxs margin-top-xs padding-top-xs has-text-subtle">
+							<span class="margin-right-xxs align-self-center font-size-h5 docon docon-topic-get-started" aria-hidden="true"></span>
+							Get started
+						</h3>
+						<ul class="margin-none has-line-height-reset">
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="capabilities/experimentation/" data-linktype="relative-path">Getting started with AI experimentation</a>
+							</li>
+						</ul>
+						<h3 class="display-flex is-uppercase font-size-sm border-top margin-bottom-xxs margin-top-xs padding-top-xs has-text-subtle">
+							<span class="margin-right-xxs align-self-center font-size-h5 docon docon-topic-concept" aria-hidden="true"></span>
+							Concept
+						</h3>
+						<ul class="margin-none has-line-height-reset">
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="capabilities/" data-linktype="relative-path">Understanding production AI building blocks</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="capabilities/data-curation/" data-linktype="relative-path">Understanding data curation and management for AI projects</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="capabilities/deployment/" data-linktype="relative-path">AI model deployment</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="capabilities/ml-lifecycle-management/" data-linktype="relative-path">Using MLOps to manage the AI lifecycle</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="technology-guidance/mlops/drift-overview" data-linktype="relative-path">Understanding and adapting to data drift</a>
+							</li>
+						</ul>
+						<h3 class="display-flex is-uppercase font-size-sm border-top margin-bottom-xxs margin-top-xs padding-top-xs has-text-subtle">
+							<span class="margin-right-xxs align-self-center font-size-h5 docon docon-topic-reference" aria-hidden="true"></span>
+							Reference
+						</h3>
+						<ul class="margin-none has-line-height-reset">
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="capabilities/model-development/" data-linktype="relative-path">capabilities/model-development</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="technology-guidance/mlops/drift-overview" data-linktype="relative-path">How to detect and adapt to drift</a>
+							</li>
+						</ul>
+				</div>
+			</div>
+			<div class="column is-12 is-4-desktop">
+				<div class="box box-shadow-medium margin-none margin-xxs-desktop">
+					<h2 class="margin-none font-size-h6">AI experimentation</h2>
+						<h3 class="display-flex is-uppercase font-size-sm border-top margin-bottom-xxs margin-top-xs padding-top-xs has-text-subtle">
+							<span class="margin-right-xxs align-self-center font-size-h5 docon docon-topic-get-started" aria-hidden="true"></span>
+							Get started
+						</h3>
+						<ul class="margin-none has-line-height-reset">
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="capabilities/experimentation/" data-linktype="relative-path">Getting started with AI experimentation</a>
+							</li>
+						</ul>
+						<h3 class="display-flex is-uppercase font-size-sm border-top margin-bottom-xxs margin-top-xs padding-top-xs has-text-subtle">
+							<span class="margin-right-xxs align-self-center font-size-h5 docon docon-topic-concept" aria-hidden="true"></span>
+							Concept
+						</h3>
+						<ul class="margin-none has-line-height-reset">
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="https://microsoft.github.io/code-with-engineering-playbook/machine-learning/responsible-ai" data-linktype="external">Responsible AI</a>
+							</li>
+						</ul>
+				</div>
+			</div>
+			<div class="column is-12 is-4-desktop">
+				<div class="box box-shadow-medium margin-none margin-xxs-desktop">
+					<h2 class="margin-none font-size-h6">Machine Learning Solutions</h2>
+						<h3 class="display-flex is-uppercase font-size-sm border-top margin-bottom-xxs margin-top-xs padding-top-xs has-text-subtle">
+							<span class="margin-right-xxs align-self-center font-size-h5 docon docon-topic-architecture" aria-hidden="true"></span>
+							Architecture
+						</h3>
+						<ul class="margin-none has-line-height-reset">
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="solutions/data-discovery/" data-linktype="relative-path">Data Discovery solution for unstructured data</a>
+							</li>
+							<li class="is-unstyled padding-block-xxs">
+								<a class="has-external-link-indicator font-size-sm display-block" href="solutions/custom-machine-learning/automating-model-training/" data-linktype="relative-path">Automating and monitoring ML model development</a>
+							</li>
+						</ul>
+				</div>
+			</div>
+	</div>
+</section>
+							<!-- </content> -->
 
