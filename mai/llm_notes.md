@@ -56,8 +56,17 @@ Sure! Here are the main points from the page:
 
 ## <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/understanding-tokens" data-linktype="relative-path">Understand tokens</a>
 
+TODO: add
+
 ## <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/embeddings" data-linktype="relative-path">Preserve semantic meaning with embeddings</a>
+
+TODO: add
 
 ## <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/vector-databases" data-linktype="relative-path">Semantic search with vector databases</a>
 
+TODO: add
+
 ## <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/prompt-engineering-dotnet" data-linktype="relative-path">Prompt engineering</a>
+
+TODO: add
+
