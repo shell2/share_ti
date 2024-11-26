@@ -1,8 +1,33 @@
 # Notes
 
-## LLM
+## LLM Essential concepts
 
-## How generative AI and LLMs work
+https://learn.microsoft.com/en-us/dotnet/ai/
+
+<h2 class="margin-none font-size-h6">Essential concepts</h2>
+  <h3 class="display-flex is-uppercase font-size-sm border-top margin-bottom-xxs margin-top-xs padding-top-xs has-text-subtle">
+    <span class="margin-right-xxs align-self-center font-size-h5 docon docon-topic-concept" aria-hidden="true"></span>
+    Concept
+  </h3>
+  <ul class="margin-none has-line-height-reset">
+    <li class="is-unstyled padding-block-xxs">
+      <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/how-genai-and-llms-work" data-linktype="relative-path">How generative AI and LLMs work</a>
+    </li>
+    <li class="is-unstyled padding-block-xxs">
+      <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/understanding-tokens" data-linktype="relative-path">Understand tokens</a>
+    </li>
+    <li class="is-unstyled padding-block-xxs">
+      <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/embeddings" data-linktype="relative-path">Preserve semantic meaning with embeddings</a>
+    </li>
+    <li class="is-unstyled padding-block-xxs">
+      <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/vector-databases" data-linktype="relative-path">Semantic search with vector databases</a>
+    </li>
+    <li class="is-unstyled padding-block-xxs">
+      <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/prompt-engineering-dotnet" data-linktype="relative-path">Prompt engineering</a>
+    </li>
+  </ul>
+
+## <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/how-genai-and-llms-work" data-linktype="relative-path">How generative AI and LLMs work</a>
 
 https://learn.microsoft.com/en-us/dotnet/ai/conceptual/how-genai-and-llms-work
 
@@ -29,7 +54,10 @@ Sure! Here are the main points from the page:
 - **Embeddings**: Tokens are represented as vectors, predicting the next token in a sequence.
 - **Training**: Adjusts weights to reduce loss and improve model accuracy.
 
-Let me know if you need more details on any specific section!
+## <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/understanding-tokens" data-linktype="relative-path">Understand tokens</a>
 
-Source: Conversation with Copilot, 27/11/2024
-(1) Getting started with LLM prompt engineering | Microsoft Learn. https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/prompt-engineering.
+## <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/embeddings" data-linktype="relative-path">Preserve semantic meaning with embeddings</a>
+
+## <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/vector-databases" data-linktype="relative-path">Semantic search with vector databases</a>
+
+## <a class="has-external-link-indicator font-size-sm display-block" href="conceptual/prompt-engineering-dotnet" data-linktype="relative-path">Prompt engineering</a>
