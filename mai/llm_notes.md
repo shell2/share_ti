@@ -2,7 +2,7 @@
 
 LLM Models: Gemini (Google), Llama3 (Meta), Claude (Anthropic), GPT-4 (Openai & Microsoft), Mixtral-8x22B
 
-Sure! Here are some basic AI concepts explained:
+> Sure! Here are some basic AI concepts explained:
 
 ### **1. Model**
 An AI model is a mathematical representation of a real-world process. It is trained on data to recognize patterns and make predictions or decisions. Models can be used for various tasks like image recognition, language translation, and more.
@@ -35,6 +35,52 @@ Source: Conversation with Copilot, 27/11/2024
 (4) The Potential of Retrieval Augmented Generation (RAG) and Fine-Tuning .... https://dataloop.ai/blog/the-potential-of-retrieval-augmented-generation-rag-and-fine-tuning/.
 (5) RAG vs. Fine-Tuning: How to Choose - Oracle. https://www.oracle.com/artificial-intelligence/generative-ai/retrieval-augmented-generation-rag/rag-fine-tuning/.
 (6) undefined. https://github.com/jmorganca/ollama/blob/main/docs/api.md.
+
+> Sure! Here are some popular AI platforms and toolchains:
+
+### **1. Ollama**
+- **Overview**: Ollama is an open-source application that allows users to run, create, and share large language models (LLMs) locally. It supports models like Llama 2 and provides a user-friendly command-line interface for MacOS, Linux, and Windows¹(https://microsoft.github.io/autogen/0.2/docs/ecosystem/ollama/).
+- **Features**: 
+  - Bundles model weights, configuration, and data into a single package.
+  - Optimizes setup and configuration details, including GPU usage.
+  - Supports tool calls with popular models like Llama 3.1 and Mistral²(https://dev.to/littlelittlecloud/tool-call-with-local-model-using-ollama-and-autogennet-3o64).
+
+### **2. AutoGen**
+- **Overview**: AutoGen is a framework that facilitates the creation of AI agents capable of interacting with external tools and APIs. It is designed to work seamlessly with various LLMs, including those run locally with Ollama²(https://dev.to/littlelittlecloud/tool-call-with-local-model-using-ollama-and-autogennet-3o64).
+- **Features**:
+  - Enables tool calls within prompts.
+  - Supports integration with .NET for building complex applications.
+  - Allows for the creation of custom agents with specific functionalities²(https://dev.to/littlelittlecloud/tool-call-with-local-model-using-ollama-and-autogennet-3o64).
+
+### **3. Hugging Face**
+- **Overview**: Hugging Face is a popular platform for building, training, and deploying machine learning models. It offers a vast library of pre-trained models and tools for natural language processing (NLP), computer vision, and more.
+- **Features**:
+  - Transformers library for easy access to pre-trained models.
+  - Datasets library for accessing and sharing datasets.
+  - Model Hub for hosting and sharing models.
+
+### **4. TensorFlow**
+- **Overview**: TensorFlow is an open-source machine learning framework developed by Google. It is widely used for building and deploying machine learning models across various platforms.
+- **Features**:
+  - Supports deep learning and neural networks.
+  - TensorFlow Lite for mobile and embedded devices.
+  - TensorFlow Extended (TFX) for production ML pipelines.
+
+### **5. PyTorch**
+- **Overview**: PyTorch is an open-source machine learning library developed by Facebook's AI Research lab. It is known for its flexibility and ease of use, particularly in research and development.
+- **Features**:
+  - Dynamic computation graph for flexible model building.
+  - TorchScript for transitioning from research to production.
+  - Extensive ecosystem with libraries like torchvision and torchaudio.
+
+These platforms and tools provide a robust foundation for developing and deploying AI applications across various domains. Let me know if you need more details on any of these!
+
+Source: Conversation with Copilot, 27/11/2024
+(1) Ollama | AutoGen - GitHub Pages. https://microsoft.github.io/autogen/0.2/docs/ecosystem/ollama/.
+(2) Tool call with local model using Ollama and AutoGen.Net. https://dev.to/littlelittlecloud/tool-call-with-local-model-using-ollama-and-autogennet-3o64.
+(3) AutoGen with Ollama/LiteLLM - Each Agent With Its OWN LOCAL MODEL .... https://www.chaindesk.ai/tools/youtube-summarizer/auto-gen-with-ollama-lite-llm-each-agent-with-its-own-local-model-tutorial-y7wMTwJN7rA.
+(4) Harnessing Ollama for Your AutoGen Projects: The Ultimate Guide. https://www.arsturn.com/blog/using-ollama-for-autogen-projects.
+(5) undefined. https://ollama.com/api/.
 
 ## LLM Essential concepts
 
