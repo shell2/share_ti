@@ -1,6 +1,6 @@
 # Notes
 
-LLM Models: Gemini (Google), Claude (Meta), GPT-4 (Openai & Microsoft), LLaMA3, Mixtral-8x22B
+LLM Models: Gemini (Google), Llama3 (Meta), Claude (Anthropic), GPT-4 (Openai & Microsoft), Mixtral-8x22B
 
 Sure! Here are some basic AI concepts explained:
 
