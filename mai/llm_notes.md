@@ -1,5 +1,41 @@
 # Notes
 
+LLM Models: Gemini (Google), Claude (Meta), GPT-4 (Openai & Microsoft), LLaMA3, Mixtral-8x22B
+
+Sure! Here are some basic AI concepts explained:
+
+### **1. Model**
+An AI model is a mathematical representation of a real-world process. It is trained on data to recognize patterns and make predictions or decisions. Models can be used for various tasks like image recognition, language translation, and more.
+
+### **2. Model Tuning**
+Model tuning involves adjusting the parameters of an AI model to improve its performance. This can include:
+- **Hyperparameter Tuning**: Adjusting settings like learning rate, batch size, etc.
+- **Fine-Tuning**: Retraining a pre-trained model on a new, specific dataset to adapt it to a particular task.
+
+### **3. Retrieval-Augmented Generation (RAG)**
+RAG combines retrieval-based and generative approaches to enhance the accuracy of AI models by incorporating external knowledge. It involves:
+- **Retrieval Component**: Fetches relevant information from external sources.
+- **Generation Component**: Uses the retrieved information to generate a more accurate and contextually relevant response¹(https://learnbybuilding.ai/tutorials/rag-from-scratch)²(https://towardsai.net/p/machine-learning/optimizing-ai-models-with-fine-tuning-and-rag-which-approach-wins).
+
+### **4. Agent**
+In AI, an agent is an entity that perceives its environment through sensors and acts upon it using actuators. Agents can be:
+- **Reactive**: Responds to changes in the environment.
+- **Proactive**: Takes actions to achieve specific goals.
+
+### **5. Fine-Tuning vs. RAG**
+- **Fine-Tuning**: Adapts a pre-trained model to a specific task by training it on a specialized dataset²(https://towardsai.net/p/machine-learning/optimizing-ai-models-with-fine-tuning-and-rag-which-approach-wins).
+- **RAG**: Enhances model responses by integrating real-time information from external sources¹(https://learnbybuilding.ai/tutorials/rag-from-scratch)²(https://towardsai.net/p/machine-learning/optimizing-ai-models-with-fine-tuning-and-rag-which-approach-wins).
+
+These concepts are fundamental to understanding how AI systems are built and optimized for various applications. Let me know if you need more details on any of these topics!
+
+Source: Conversation with Copilot, 27/11/2024
+(1) A beginner's guide to building a Retrieval Augmented Generation (RAG .... https://learnbybuilding.ai/tutorials/rag-from-scratch.
+(2) Optimizing AI Models with Fine-Tuning and RAG — Which Approach Wins?. https://towardsai.net/p/machine-learning/optimizing-ai-models-with-fine-tuning-and-rag-which-approach-wins.
+(3) Adapting AI Models - Processica. https://www.processica.com/articles/adapting-ai-models-the-strategic-choice-between-fine-tuning-and-rag/.
+(4) The Potential of Retrieval Augmented Generation (RAG) and Fine-Tuning .... https://dataloop.ai/blog/the-potential-of-retrieval-augmented-generation-rag-and-fine-tuning/.
+(5) RAG vs. Fine-Tuning: How to Choose - Oracle. https://www.oracle.com/artificial-intelligence/generative-ai/retrieval-augmented-generation-rag/rag-fine-tuning/.
+(6) undefined. https://github.com/jmorganca/ollama/blob/main/docs/api.md.
+
 ## LLM Essential concepts
 
 https://learn.microsoft.com/en-us/dotnet/ai/
